@@ -1,3 +1,6 @@
+//Daniel Shaw
+//3.23.25
+//Exercise 10
 import java.util.ArrayList;
 import java.util.Iterator;
 
